@@ -33,7 +33,7 @@ body {
 }
 
 .main-container .backgrounds {
-  background-image: url('images/hero-bg.avif');
+  background-image: url('./images/hero-bg.avif');
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ body {
 }
 
 .background-mountains {
-  background-image: url('images/275a251d0966ae77b7e58d007b190a88.png');
+  background-image: url('./images/275a251d0966ae77b7e58d007b190a88.png');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -94,7 +94,7 @@ body {
 }
 
 .background-hill {
-  background-image: url('images/hero-bg-2.avif');
+  background-image: url('./images/hero-bg-2.avif');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
